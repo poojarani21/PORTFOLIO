@@ -1,0 +1,89 @@
+.img{
+    align-items: center;
+    margin-left: 27%;
+    
+    
+}
+.firstDiv{
+    height: 150px;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(238, 248, 247);
+    padding-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.SecDiv{
+    height: 200px;
+    text-align: center;
+    border: 1px solid white;
+    /* background-color: rgb(202, 235, 231); */
+    padding-top: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.btn{
+    height:40px;
+    width:9%;
+    color: white;
+    background-color:lightseagreen;
+    border-radius: 60px 60px 60px 60px;
+   
+}
+
+.thirdDiv{
+    height: 150px;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgb(238, 248, 247);
+
+    padding-top: 28px;
+    padding-bottom: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px 20px 20px 20px;
+
+}
+.btn2{
+    height:40px;
+    width:9%;
+    color: white;
+    border-radius: 60px 60px 60px 60px;
+    border: 1px solid purple;
+
+}
+
+.footer{
+    height: 120px;
+    margin-top: 50px;
+    background-color:lightseagreen;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 28px;
+    border-radius: 0px 20px 0px 0px;
+}
+
+.header{
+    background-color:lightseagreen;
+    height: 90px;
+    border-radius: 0px 0px 0px 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h4{
+    color: white;
+    padding-left:10px;
+    padding-top: 15px;
+}
+.nav{
+    float: right;
+    margin-right: 30px;
+    font-size: 17px;
+    color: white;
+}
